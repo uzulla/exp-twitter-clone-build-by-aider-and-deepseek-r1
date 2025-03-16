@@ -2,6 +2,15 @@
 
 A simple Twitter-like social media platform built with Laravel for educational purposes.
 
+## screen shot
+
+![image](https://github.com/user-attachments/assets/21d66823-f6bf-474d-bd5d-23411e03d3c9)
+
+![image](https://github.com/user-attachments/assets/a64bdedb-fbf3-494a-b5b5-10667d3ce1b5)
+
+![image](https://github.com/user-attachments/assets/444b38d6-a6d5-4257-8942-dbfe347a90d5)
+
+
 ## Features
 
 - User Authentication (Registration/Login/Logout)
